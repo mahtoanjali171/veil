@@ -16,6 +16,7 @@
  * To add a new semantic color:
  * 1. Add the variable to :root (light value) and .dark (dark value)
  * 2. Register it in @theme inline as --color-<name>: var(--<name>)
+ * 3. now use it in @theme inline as --color-<name>: var(--<name>)
  */
 
 @theme inline {
