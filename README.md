@@ -1,5 +1,5 @@
 # VEIL — Pre-LLM Privacy Firewall
-
+privashield:A boundary between user and LLM
 VEIL is a privacy-focused security layer designed to detect sensitive information in user input before it reaches a Large Language Model (LLM).
 
 The project helps identify potentially sensitive data such as personally identifiable information (PII), contact information, credentials, and other confidential content, allowing users to review and protect their data before sharing it with an AI system.
